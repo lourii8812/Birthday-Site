@@ -92,8 +92,10 @@ p {
 }
 
 textarea, input {
+    height: 80%;
+    max-height: 1000px;
     width: 80%;
-    max-width: 400px;
+    max-width: 1000px;
     padding: 10px;
     border-radius: 10px;
     border: 1px solid #ccc;
@@ -101,7 +103,7 @@ textarea, input {
 }
 
 textarea {
-    height: 300px;
+    height: 1000px;
     resize: vertical;
 }
 
