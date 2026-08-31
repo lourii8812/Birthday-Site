@@ -101,8 +101,8 @@ textarea, input {
 }
 
 textarea {
-    height: 100px;
-    resize: none;
+    height: 300px;
+    resize: vertical;
 }
 
 #replyMsg, #wishMsg {
